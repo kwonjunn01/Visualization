@@ -1,4 +1,4 @@
-## data visualization about t-SNE
+## data visualization via t-SNE
 
 >MNIST dataset
 ![mnist-plot](https://user-images.githubusercontent.com/52390523/89610451-7dd4ce00-d8b5-11ea-8447-1607d2f19e34.png)
